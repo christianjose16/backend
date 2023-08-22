@@ -26,3 +26,4 @@ app.listen(puerto, err => {
 
     console.log(`Escuchando en el puerto :${puerto}`);
 });
+module.exports = app;
